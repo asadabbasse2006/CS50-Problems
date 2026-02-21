@@ -26,14 +26,13 @@ Here’s an overview of my **completed assignments and projects**:
 | 3     | Algorithms & Sorting       | ✅ Done | [Week 3](./Week3) |
 | 4     | Memory & Pointers          | ✅ Done | [Week 4](./Week4) |
 | 5     | Data Structures            | ✅ Done | [Week 5](./Week5)|
-| 6     | Python Programming         | ⏳ Pending |  |
-| 7     | Artificial Intellignece    |            |
-| 8     | SQL                        |   |
-| 9     | HTML, CSS, JavaScript      |   |
-| 10    | Flask                      |   |
-| 11    | Cybersecutity              |   |
-
-🔹 **Final Project:** *(Will be added after completion!)* 🚀  
+| 6     | Python Programming         | ✅ Done | [Week 5](./Week6)|
+| 7     | Artificial Intellignece    | ✅ Done | [Week 5](./Week7)|
+| 8     | SQL                        | ✅ Done | [Week 5](./Week8)|
+| 9     | HTML, CSS, JavaScript      | ✅ Done | [Week 5](./Week9)|
+| 10    | Flask                      | ✅ Done | [Week 5](./Week10)|
+| 11    | Cybersecutity              | ✅ Done | [Week 5](./Week11)|
+🔹 **Final Project:** *Calculator* 🚀  
 
 ---
 
@@ -44,8 +43,6 @@ To clone and run my CS50 projects on your local machine, follow these steps:
 # Clone the repository
 git clone https://github.com/YOUR-GITHUB-USERNAME/CS50x-2024.git
 
-# Navigate into a specific week's folder
-cd CS50x-2024/Week1
 
 # Compile and run a C program (example)
 clang hello.c -o hello
