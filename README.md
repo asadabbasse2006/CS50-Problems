@@ -19,20 +19,20 @@ More details: [CS50 Official Website](https://cs50.harvard.edu/x/)
 ## 📂 Course Progress & Projects  
 Here’s an overview of my **completed assignments and projects**:
 
-| Week  | Topic                      | Status  | Link |
-|-------|----------------------------|---------|------|
-| 1     | C Basics & Scratch         | ✅ Done | [Week 1](./Week1) |
-| 2     | Arrays & Loops             | ✅ Done | [Week 2](./Week2) |
-| 3     | Algorithms & Sorting       | ✅ Done | [Week 3](./Week3) |
-| 4     | Memory & Pointers          | ✅ Done | [Week 4](./Week4) |
-| 5     | Data Structures            | ✅ Done | [Week 5](./Week5)|
-| 6     | Python Programming         | ✅ Done | [Week 5](./Week6)|
-| 7     | Artificial Intellignece    | ✅ Done | [Week 5](./Week7)|
-| 8     | SQL                        | ✅ Done | [Week 5](./Week8)|
-| 9     | HTML, CSS, JavaScript      | ✅ Done | [Week 5](./Week9)|
-| 10    | Flask                      | ✅ Done | [Week 5](./Week10)|
-| 11    | Cybersecutity              | ✅ Done | [Week 5](./Week11)|
-🔹 **Final Project:** *Calculator* 🚀  
+| Week  | Topic                      | Status  |
+|-------|----------------------------|---------|
+| 1     | C Basics & Scratch         | ✅ Done |
+| 2     | Arrays & Loops             | ✅ Done | 
+| 3     | Algorithms & Sorting       | ✅ Done | 
+| 4     | Memory & Pointers          | ✅ Done |
+| 5     | Data Structures            | ✅ Done |
+| 6     | Python Programming         | ✅ Done |
+| 7     | Artificial Intellignece    | ✅ Done |
+| 8     | SQL                        | ✅ Done | 
+| 9     | HTML, CSS, JavaScript      | ✅ Done | 
+| 10    | Flask                      | ✅ Done | 
+| 11    | Cybersecutity              | ✅ Done | 
+🔹 **Final Project** *Calculator* 🚀  
 
 ---
 
